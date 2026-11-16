@@ -204,6 +204,11 @@ def main():
     if not creds:
         print(f'[skip] {acc}: X credentials not configured (need X_{acc.upper()}_ACCESS_TOKEN/SECRET and consumer key/secret)')
         return 0
+    today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    hist = state.get('history', [])
+    if hist and hist[-1].get('time', '')[:10] == today and not os.environ.get('VM_FORCE'):
+        print(f'[skip] {acc}: already posted today ({hist[-1].get("tweet_id")})')
+        return 0
     texts, entry, img, i, gstep = pick(acc, state)
     buf = io.BytesIO(); render(acc, entry, img).save(buf, 'JPEG', quality=92)
     text = post_text(entry)
