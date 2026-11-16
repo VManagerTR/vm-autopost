@@ -1,0 +1,744 @@
+[
+ {
+  "id": "tr-001",
+  "type": "league",
+  "headline": "EFELER LİGİ OYUNDA",
+  "caption": "Efeler Ligi Volleyball Manager'da! 14 kulüp, 2 küme düşme hattı. Sen zirveye mi oynarsın, ligde kalmaya mı?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ],
+  "image_tag": "league_efeler"
+ },
+ {
+  "id": "tr-002",
+  "type": "feature",
+  "headline": "6 LİG, TEK KARİYER",
+  "caption": "Efeler Ligi, 1. Lig, SuperLega, PlusLiga, Rusya Süper Ligi ve SV.League. Takımını seç, efsaneni yaz.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "table"
+ },
+ {
+  "id": "tr-003",
+  "type": "question",
+  "headline": "İLK HANGİ LİG?",
+  "caption": "Efeler Ligi mi, SuperLega mı, 1. Lig'den sıfırdan mı? Kariyerine nereden başlarsın? 👇",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#EfelerLigi"
+  ]
+ },
+ {
+  "id": "tr-004",
+  "type": "feature",
+  "headline": "ŞAMPİYONLAR LİGİ GECELERİ",
+  "caption": "Ligi kazan, Avrupa seni beklesin: 5 grup, play-off turu ve Berlin'de Final Four.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#ŞampiyonlarLigi",
+   "#Voleybol"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "tr-005",
+  "type": "league",
+  "headline": "1. LİG'DEN ZİRVEYE",
+  "caption": "Türkiye 1. Ligi de oyunda. Küçük bir kulüple başla, şampiyon ol, Efeler Ligi'ne çık.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "league_turkey-1"
+ },
+ {
+  "id": "tr-006",
+  "type": "tip",
+  "headline": "İPUCU: DERİNLİK SEZON KAZANDIRIR",
+  "caption": "Her mevkide güvenilir bir yedek tut. Tek sakatlık sezonunu bitirmesin.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#VoleybolTaktik"
+  ]
+ },
+ {
+  "id": "tr-007",
+  "type": "feature",
+  "headline": "TRANSFER DÖNEMİ AÇIK",
+  "caption": "Yazın 8 hafta, sezon ortasında kısa bir ara dönem. Serbest oyuncular ise her zaman imzalanabilir.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Transfer",
+   "#Voleybol"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "tr-008",
+  "type": "fan",
+  "headline": "PASÖR ARKADAŞINI ETİKETLE",
+  "caption": "Mahalle maçında kendini en iyi pasör sanan arkadaşını etiketle 😄",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-009",
+  "type": "league",
+  "headline": "İTALYA SUPERLEGA OYUNDA",
+  "caption": "Dünyanın en sert liglerinden SuperLega oyunda. 12 kulüp, tek şampiyon.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SuperLega",
+   "#Voleybol"
+  ],
+  "image_tag": "league_italy"
+ },
+ {
+  "id": "tr-010",
+  "type": "soon",
+  "headline": "YAKINDA GOOGLE PLAY'DE",
+  "caption": "Volleyball Manager çok yakında Google Play'de. Önce Android, sonra iOS.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#MobilOyun"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-011",
+  "type": "feature",
+  "headline": "SÖZLEŞMESİ BİTEN SARI YANAR",
+  "caption": "Sözleşmesi bitmek üzere olan oyuncular kadroda sarıyla işaretli. Yıldızını şimdi uzat, sonra pişman olma.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "tr-012",
+  "type": "question",
+  "headline": "PASÖR MÜ PASÖR ÇAPRAZI MI?",
+  "caption": "Bütçen tek bir süperstara yetiyor. Elit pasör mü, elit pasör çaprazı mı?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-013",
+  "type": "league",
+  "headline": "POLONYA PLUSLIGA OYUNDA",
+  "caption": "PlusLiga oyunda! Dolu salonlar, derin kadrolar, kolay maç yok.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#PlusLiga",
+   "#Voleybol"
+  ],
+  "image_tag": "league_poland"
+ },
+ {
+  "id": "tr-014",
+  "type": "feature",
+  "headline": "KASAYI SEN YÖNET",
+  "caption": "Forma satışı, bilet, sponsor, yayın geliri ve galibiyet primi. Maaşlar ve giderler de cabası.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "tr-015",
+  "type": "question",
+  "headline": "YILDIZ MI ALTYAPI MI?",
+  "caption": "Tüm parayı hazır yıldızlara mı yatırırsın, yoksa altyapıya mı güvenirsin?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-016",
+  "type": "feature",
+  "headline": "ALTYAPIDAN YENİ YETENEK",
+  "caption": "Her sezon altyapından 17-19 yaşında yeni gençler gelir. Belki geleceğin kaptanı aralarında.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "tr-017",
+  "type": "league",
+  "headline": "RUSYA SÜPER LİGİ OYUNDA",
+  "caption": "Rusya Süper Ligi Volleyball Manager'da. Büyük bütçeler, daha büyük bloklar.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "league_russia"
+ },
+ {
+  "id": "tr-018",
+  "type": "tip",
+  "headline": "İPUCU: ORTA OYUNCU FİLEYİ YÖNETİR",
+  "caption": "Güçlü orta oyuncular hızlı hücumu keser, smaçörlerine nefes aldırır.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#VoleybolTaktik"
+  ]
+ },
+ {
+  "id": "tr-019",
+  "type": "feature",
+  "headline": "MAÇI SAYI SAYI İZLE",
+  "caption": "Canlı sayı akışıyla maçı takip et, hızı sen ayarla. Acelen varsa hızlı sonuç tek tık.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "match"
+ },
+ {
+  "id": "tr-020",
+  "type": "fan",
+  "headline": "HAFTA SONU KİMİ İZLİYORSUN?",
+  "caption": "Bu hafta sonu hangi maçı izliyorsun? Takımını yaz 🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-021",
+  "type": "league",
+  "headline": "JAPONYA SV.LEAGUE OYUNDA",
+  "caption": "Japonya SV.League oyunda! Hızlı hücum, çelik gibi savunma. Orada şampiyonluk kurabilir misin?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVLeague",
+   "#Voleybol"
+  ],
+  "image_tag": "league_japan"
+ },
+ {
+  "id": "tr-022",
+  "type": "soon",
+  "headline": "VOLEYBOLSEVERLER İÇİN",
+  "caption": "Voleybolu gerçekten izleyenler için yapılmış bir erkek voleybolu menajerlik oyunu. Yakında Google Play'de.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#GooglePlay"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-023",
+  "type": "feature",
+  "headline": "REYTİNG VE MAÇIN MVP'Sİ",
+  "caption": "Her oyuncuya maç reytingi, her maça bir MVP. Takımını sırtlayan kim?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "tr-024",
+  "type": "question",
+  "headline": "EFELER'İN EN İYİ SERVİSİ?",
+  "caption": "Efeler Ligi'nde şu an en korkutucu servis kimde? Yorumlara yaz.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-025",
+  "type": "feature",
+  "headline": "14 KİŞİLİK MAÇ KADROSU",
+  "caption": "İlk altı, libero, yedekler ve rezervler. Maç kadrosunu sen kur.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "tr-026",
+  "type": "question",
+  "headline": "LİBERO NE KADAR ÖNEMLİ?",
+  "caption": "Dünya klasında bir libero takımı ne kadar değiştirir? Fikirlerinizi bekliyoruz.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-027",
+  "type": "feature",
+  "headline": "ASIL SAVAŞ PLAY-OFF'TA",
+  "caption": "İlk 8 play-off'a kalır. Normal sezon güzel ama kupa play-off'ta kazanılır.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ],
+  "image_tag": "playoffs"
+ },
+ {
+  "id": "tr-028",
+  "type": "tip",
+  "headline": "İPUCU: SERVİSLE BASKI KUR",
+  "caption": "Sert servis rakibin manşetini bozar, hücumunu da beraberinde götürür.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#VoleybolTaktik"
+  ]
+ },
+ {
+  "id": "tr-029",
+  "type": "feature",
+  "headline": "KUPA MÜZESİ",
+  "caption": "Kazandığın her kupa müzene girer. Raflarını ne kadar doldurabilirsin?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "museum"
+ },
+ {
+  "id": "tr-030",
+  "type": "fan",
+  "headline": "FİLENİN EFELERİ",
+  "caption": "Milli takım maçlarında sesimiz hiç kısılmadı. Sen en çok hangi maçı unutamıyorsun?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#FileninEfeleri",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-031",
+  "type": "soon",
+  "headline": "KULÜBÜNÜ YÖNET. ŞAMPİYON OL.",
+  "caption": "Kadro, transfer, sözleşme, bütçe, play-off. Hepsi cebinde, yakında Google Play'de.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Voleybol"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-032",
+  "type": "feature",
+  "headline": "KÜME DÜŞME VAR!",
+  "caption": "Efeler Ligi'nde son iki takım düşer, 1. Lig'den iki takım çıkar. Her sayı önemli.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ],
+  "image_tag": "table"
+ },
+ {
+  "id": "tr-033",
+  "type": "question",
+  "headline": "EN ZOR LİG HANGİSİ?",
+  "caption": "SuperLega, PlusLiga, Rusya Süper Ligi, Efeler Ligi... Kazanması en zor şampiyonluk hangisi?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#EfelerLigi"
+  ]
+ },
+ {
+  "id": "tr-034",
+  "type": "feature",
+  "headline": "SEZON ÖDÜLLERİ",
+  "caption": "MVP, en iyi genç, mevki ödülleri ve Sezonun 6'sı. Oyuncuların listeye girsin.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "tr-035",
+  "type": "question",
+  "headline": "İLK TRANSFER HANGİ MEVKİ?",
+  "caption": "Yeni kulüp, boş transfer listesi. İlk hangi mevkiyi güçlendirirsin?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-036",
+  "type": "feature",
+  "headline": "SOYUNMA ODASI ÖNEMLİ",
+  "caption": "Yıldızını fazla kenarda bırakırsan ayrılmak ister. Moral her şey.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "tr-037",
+  "type": "tip",
+  "headline": "İPUCU: PASÖR TAKIMIN BEYNİ",
+  "caption": "İyi bir pasör her smaçörü daha iyi yapar. Asla küçümseme.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#VoleybolTaktik"
+  ]
+ },
+ {
+  "id": "tr-038",
+  "type": "feature",
+  "headline": "SAKATLIKLAR SEZONU DEĞİŞTİRİR",
+  "caption": "Pasör çaprazın 7 hafta yok. Plan B'n hazır mı? Kadro derinliği şampiyonluk getirir.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "tr-039",
+  "type": "fan",
+  "headline": "TEK KELİMEYLE SMAÇ",
+  "caption": "Mükemmel smaçı tek kelimeyle anlat. Biz başlıyoruz: \"Yıldırım.\"",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-040",
+  "type": "soon",
+  "headline": "ÖNCE ANDROID",
+  "caption": "Volleyball Manager ilk olarak Google Play'e geliyor. iPhone'cular, sıra sizde.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#MobilOyun"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-041",
+  "type": "feature",
+  "headline": "HER HAFTA TEKLİF YAĞAR",
+  "caption": "Rakip kulüpler oyuncuların için teklif yapar. Satar mısın, direnir misin?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Transfer",
+   "#Voleybol"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "tr-042",
+  "type": "question",
+  "headline": "HANGİ KULÜBÜ ÇALIŞTIRIRDIN?",
+  "caption": "Dünyada istediğin bir erkek voleybol kulübünü çalıştırabilsen hangisi olurdu?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-043",
+  "type": "feature",
+  "headline": "OYUNCU KARİYER SAYFALARI",
+  "caption": "Sezonlar, kulüpler, maçlar, sayılar, ortalama reyting ve ödüller. Her oyuncunun bir hikâyesi var.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "tr-044",
+  "type": "question",
+  "headline": "3-0 MI 5 SETLİK DESTAN MI?",
+  "caption": "Her maç 3-0 kazanmak mı, yoksa 5 setlik bir destanla kazanmak mı?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-045",
+  "type": "feature",
+  "headline": "HAFTANIN EN İYİLERİ",
+  "caption": "Her hafta en iyi performanslar öne çıkar. Senin oyuncun listede mi?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "tr-046",
+  "type": "tip",
+  "headline": "İPUCU: MAAŞ BORDROSUNA DİKKAT",
+  "caption": "Büyük transfer, sezon ortasında bütçeni batırıyorsa hiçbir işe yaramaz.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-047",
+  "type": "feature",
+  "headline": "GENÇLER OYNADIKÇA GELİŞİR",
+  "caption": "Genç ve çok süre alan oyuncular daha hızlı gelişir. Veteranlar ise bir gün emekli olur.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "tr-048",
+  "type": "fan",
+  "headline": "OYNARDIM DİYEN RT",
+  "caption": "Telefonunda gerçek bir erkek voleybolu menajerlik oyunu oynarım diyorsan RT 🔁 Yakında Google Play'de.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Voleybol"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-049",
+  "type": "soon",
+  "headline": "TAKİPTE KAL",
+  "caption": "Çıkış haberini kaçırmamak için bizi takip et. Bildirimleri aç, yakında görüşürüz.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Voleybol"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-050",
+  "type": "feature",
+  "headline": "GÜNLÜK HEDİYE",
+  "caption": "Her gün bütçene küçük bir hediye. Transferde her euro önemli.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#GooglePlay"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "tr-051",
+  "type": "question",
+  "headline": "HANGİ ÖZELLİĞİ EKLEYELİM?",
+  "caption": "Çıkıştan sonra oyuna ne eklenmeli? Fikirlerin oyunu şekillendirecek.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MobilOyun",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-052",
+  "type": "feature",
+  "headline": "TÜRKÇE, İNGİLİZCE, JAPONCA",
+  "caption": "Volleyball Manager tamamen Türkçe oynanır. İstersen İngilizce ya da Japonca da.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-053",
+  "type": "question",
+  "headline": "KÜÇÜK KULÜPLE ŞAMPİYONLUK?",
+  "caption": "1. Lig'den bir Anadolu kulübünü Efeler'e çıkarmak mı, devle şampiyon olmak mı?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-054",
+  "type": "feature",
+  "headline": "KURGUSAL YA DA GERÇEK KADROLAR",
+  "caption": "Kurgusal dünyayla başla ya da isim paketi içe aktar. Kariyer senin, kurallar senin.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "game"
+ },
+ {
+  "id": "tr-055",
+  "type": "tip",
+  "headline": "İPUCU: SERBEST OYUNCULARA BAK",
+  "caption": "Transfer dönemi kapalı mı? Serbest oyuncular her zaman imzalanabilir. Fırsatlar orada.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#Transfer"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "tr-056",
+  "type": "feature",
+  "headline": "GRUPTAN BERLİN'E",
+  "caption": "Grup birincileri çeyrek finale, ikinciler ve en iyi üçüncü play-off'a. Final Four Berlin'de.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#ŞampiyonlarLigi",
+   "#Voleybol"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "tr-057",
+  "type": "fan",
+  "headline": "HANGİ MEVKİDE OYNADIN?",
+  "caption": "Smaçör, pasör çaprazı, orta, pasör ya da libero? Sen hangi mevkide oynadın?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-058",
+  "type": "feature",
+  "headline": "LİDERLİK TABLOLARI",
+  "caption": "En çok sayı, en yüksek reyting, en iyi pasör ve libero. Ligin yıldızları kim?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "tr-059",
+  "type": "question",
+  "headline": "KAÇ SEZON OYNARSIN?",
+  "caption": "Menajerlik oyununda bir sezon mu, yirmi sezon mu? Sen ne kadar derine dalarsın?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MobilOyun",
+   "#Voleybol"
+  ]
+ },
+ {
+  "id": "tr-060",
+  "type": "tip",
+  "headline": "İPUCU: SÖZLEŞMEYİ ERKEN UZAT",
+  "caption": "Kilit oyuncularını sözleşmeleri bitmeden bağla. Rakipler pusuda.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ]
+ },
+ {
+  "id": "tr-061",
+  "type": "fan",
+  "headline": "EN EFSANE RALLİ",
+  "caption": "İzlediğin en iyi ralli hangisiydi? Yoruma bırak 🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ },
+ {
+  "id": "tr-062",
+  "type": "tip",
+  "headline": "İPUCU: ÖNCE KARŞILAMA",
+  "caption": "Karşılama yoksa hücum yok. Ralliler ilk topta kazanılır.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#VoleybolTaktik"
+  ]
+ },
+ {
+  "id": "tr-063",
+  "type": "fan",
+  "headline": "İLK TAKİPÇİLERİMİZE TEŞEKKÜRLER",
+  "caption": "Her takip daha iyi bir voleybol oyunu yapmamıza yardım ediyor. Erkenden burada olduğun için teşekkürler 💛",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#MobilOyun"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "tr-064",
+  "type": "tip",
+  "headline": "İPUCU: GENÇLERE SÜRE VER",
+  "caption": "Gençler oynadıkça gelişir. Yeteneklerine şans ver.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Voleybol",
+   "#FileninEfeleri"
+  ]
+ }
+]

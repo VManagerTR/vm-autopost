@@ -1,0 +1,94 @@
+name: Daily X post
+
+on:
+  schedule:
+    # Times are UTC. GitHub may start scheduled runs a few minutes late.
+    - cron: "0 12 * * *"   # JP  @VManagerJP  -> 21:00 JST
+    - cron: "0 14 * * *"   # EN  @VManagerEN  -> 09:00 US Eastern / 15:00 CET
+    - cron: "0 18 * * *"   # TR  @VManagerTR  -> 21:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      account:
+        description: "Account to post for"
+        required: true
+        type: choice
+        options: [en, jp, tr]
+      dry_run:
+        description: "Dry run (render only, no post)"
+        required: false
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vm-autopost-state
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Pick account
+        id: acc
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 12 * * *") ACC=jp ;;
+            "0 14 * * *") ACC=en ;;
+            "0 18 * * *") ACC=tr ;;
+            *) ACC="${{ inputs.account }}" ;;
+          esac
+          if [ -z "$ACC" ]; then echo "no account resolved"; exit 1; fi
+          echo "account=$ACC" >> "$GITHUB_OUTPUT"
+          echo "Account: $ACC"
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Post
+        env:
+          X_APP_CONSUMER_KEY: ${{ secrets.X_APP_CONSUMER_KEY }}
+          X_APP_CONSUMER_SECRET: ${{ secrets.X_APP_CONSUMER_SECRET }}
+          X_EN_CONSUMER_KEY: ${{ secrets.X_EN_CONSUMER_KEY }}
+          X_EN_CONSUMER_SECRET: ${{ secrets.X_EN_CONSUMER_SECRET }}
+          X_EN_ACCESS_TOKEN: ${{ secrets.X_EN_ACCESS_TOKEN }}
+          X_EN_ACCESS_SECRET: ${{ secrets.X_EN_ACCESS_SECRET }}
+          X_JP_CONSUMER_KEY: ${{ secrets.X_JP_CONSUMER_KEY }}
+          X_JP_CONSUMER_SECRET: ${{ secrets.X_JP_CONSUMER_SECRET }}
+          X_JP_ACCESS_TOKEN: ${{ secrets.X_JP_ACCESS_TOKEN }}
+          X_JP_ACCESS_SECRET: ${{ secrets.X_JP_ACCESS_SECRET }}
+          X_TR_CONSUMER_KEY: ${{ secrets.X_TR_CONSUMER_KEY }}
+          X_TR_CONSUMER_SECRET: ${{ secrets.X_TR_CONSUMER_SECRET }}
+          X_TR_ACCESS_TOKEN: ${{ secrets.X_TR_ACCESS_TOKEN }}
+          X_TR_ACCESS_SECRET: ${{ secrets.X_TR_ACCESS_SECRET }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            python post.py --account "${{ steps.acc.outputs.account }}" --dry-run
+          else
+            python post.py --account "${{ steps.acc.outputs.account }}"
+          fi
+
+      - name: Upload render (dry run)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-${{ steps.acc.outputs.account }}
+          path: out/
+
+      - name: Commit state
+        run: |
+          if git diff --quiet -- state/; then echo "state unchanged"; exit 0; fi
+          git config user.name "vm-autopost[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git commit -m "state: ${{ steps.acc.outputs.account }} posted [skip ci]"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

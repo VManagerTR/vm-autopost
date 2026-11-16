@@ -1,0 +1,732 @@
+[
+ {
+  "id": "jp-001",
+  "type": "league",
+  "headline": "SVリーグ|収録",
+  "caption": "日本のSVリーグを収録！速いコンビ、粘りのディフェンス。あなたの采配で頂点へ。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVリーグ",
+   "#バレーボール"
+  ],
+  "image_tag": "league_japan"
+ },
+ {
+  "id": "jp-002",
+  "type": "feature",
+  "headline": "6リーグ、|ひとつの|キャリア",
+  "caption": "SVリーグ、スーペルレーガ、プルスリーガ、ロシア、トルコ2リーグ。クラブを選んで黄金時代を築け。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "table"
+ },
+ {
+  "id": "jp-003",
+  "type": "question",
+  "headline": "最初に選ぶ|リーグは？",
+  "caption": "SVリーグ？スーペルレーガ？それともトルコ1部から？あなたならどこで始める？👇",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVリーグ",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-004",
+  "type": "feature",
+  "headline": "チャンピオンズ|リーグ",
+  "caption": "リーグを制せば欧州の舞台へ。5グループ、プレーオフ、そしてベルリンのファイナル4。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "jp-005",
+  "type": "league",
+  "headline": "イタリア・|スーペルレーガ",
+  "caption": "世界最高峰のひとつ、イタリアのスーペルレーガも収録。12クラブで頂点を争う。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SuperLega",
+   "#バレーボール"
+  ],
+  "image_tag": "league_italy"
+ },
+ {
+  "id": "jp-006",
+  "type": "tip",
+  "headline": "ヒント：|選手層が命",
+  "caption": "各ポジションに頼れる控えを。ケガひとつでシーズンを終わらせないために。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレーボール戦術"
+  ]
+ },
+ {
+  "id": "jp-007",
+  "type": "feature",
+  "headline": "移籍|ウィンドウ|開幕",
+  "caption": "夏は8週間、シーズン中にも短い移籍期間。フリーの選手はいつでも獲得できる。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "jp-008",
+  "type": "fan",
+  "headline": "セッター仲間を|タグ付け",
+  "caption": "自分が一番のセッターだと思っている友達をタグ付けしよう😄",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-009",
+  "type": "league",
+  "headline": "ポーランド・|プルスリーガ",
+  "caption": "熱狂の満員アリーナ、ポーランドのプルスリーガも登場。楽な試合はひとつもない。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#PlusLiga",
+   "#バレーボール"
+  ],
+  "image_tag": "league_poland"
+ },
+ {
+  "id": "jp-010",
+  "type": "soon",
+  "headline": "Google Playにて|近日配信",
+  "caption": "Volleyball ManagerはまもなくGoogle Playで配信。まずはAndroid、iOSはその後に。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#スマホゲーム"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-011",
+  "type": "feature",
+  "headline": "契約更新は|お早めに",
+  "caption": "契約満了が近い選手は黄色で表示。エースを手放す前に延長を。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "jp-012",
+  "type": "question",
+  "headline": "セッターか|オポジットか",
+  "caption": "予算はスター1人分だけ。世界級のセッターと世界級のオポジット、どっちを獲る？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-013",
+  "type": "league",
+  "headline": "ロシア・|スーパーリーグ",
+  "caption": "ロシア・スーパーリーグも収録。大型予算、高いブロック。勝ち抜けるか？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "league_russia"
+ },
+ {
+  "id": "jp-014",
+  "type": "feature",
+  "headline": "クラブ経営も|監督の仕事",
+  "caption": "グッズ、チケット、スポンサー、放映権、勝利ボーナス。年俸とのバランスが鍵。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "jp-015",
+  "type": "question",
+  "headline": "スター補強か|育成か",
+  "caption": "即戦力に全額投資？それともユースを信じる？あなたの監督スタイルは？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-016",
+  "type": "feature",
+  "headline": "ユースから|新星",
+  "caption": "毎シーズン17〜19歳の若手がアカデミーから昇格。未来のキャプテンがいるかも。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "jp-017",
+  "type": "league",
+  "headline": "トルコ・|エフェレル|リーグ",
+  "caption": "トルコのエフェレルリーグも登場。毎シーズン下位2クラブが降格する厳しいリーグ。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "league_efeler"
+ },
+ {
+  "id": "jp-018",
+  "type": "tip",
+  "headline": "ヒント：|ミドルが|ネットを制す",
+  "caption": "強いミドルブロッカーは速攻を止め、アウトサイドを楽にする。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレーボール戦術"
+  ]
+ },
+ {
+  "id": "jp-019",
+  "type": "feature",
+  "headline": "1点ずつ|試合を見届ける",
+  "caption": "ライブの得点経過で試合を観戦。速度は自由に調整、急ぐならクイック結果も。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "match"
+ },
+ {
+  "id": "jp-020",
+  "type": "fan",
+  "headline": "今週末は|どの試合？",
+  "caption": "今週末に観る試合は？応援しているチームを教えてください🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVリーグ",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-021",
+  "type": "league",
+  "headline": "トルコ1部から|這い上がれ",
+  "caption": "難しいキャリアに挑むならトルコ1.リグから。昇格してエフェレルリーグを目指そう。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "league_turkey-1"
+ },
+ {
+  "id": "jp-022",
+  "type": "soon",
+  "headline": "バレー好きのための|監督ゲーム",
+  "caption": "実際にバレーを観る人のために作った、男子バレーの監督ゲーム。近日配信。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#GooglePlay"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-023",
+  "type": "feature",
+  "headline": "評価点と|MVP",
+  "caption": "全選手に試合ごとの評価点、そして毎試合のMVP。チームを背負うのは誰だ？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#SVリーグ"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "jp-024",
+  "type": "question",
+  "headline": "SVリーグ|最強サーバーは？",
+  "caption": "今のSVリーグで一番怖いサーブを打つのは誰だと思う？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVリーグ",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-025",
+  "type": "feature",
+  "headline": "ベンチ入り|14人",
+  "caption": "スタメン6人、リベロ、控え、そしてリザーブ。試合のメンバーはあなたが決める。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "jp-026",
+  "type": "question",
+  "headline": "リベロの|価値",
+  "caption": "世界級のリベロはチームをどれだけ変える？ご意見お待ちしています。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-027",
+  "type": "feature",
+  "headline": "勝負は|プレーオフ",
+  "caption": "上位8チームがプレーオフへ。レギュラーシーズン首位でも油断は禁物。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#SVリーグ"
+  ],
+  "image_tag": "playoffs"
+ },
+ {
+  "id": "jp-028",
+  "type": "tip",
+  "headline": "ヒント：|サーブで崩せ",
+  "caption": "強いサーブは相手のレセプションを乱し、攻撃そのものを封じる。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレーボール戦術"
+  ]
+ },
+ {
+  "id": "jp-029",
+  "type": "feature",
+  "headline": "トロフィー|博物館",
+  "caption": "獲得したタイトルはすべてトロフィー博物館へ。どこまで飾れるか。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "museum"
+ },
+ {
+  "id": "jp-030",
+  "type": "fan",
+  "headline": "バレーは|最高のスポーツ",
+  "caption": "速くて、熱くて、奥深い。異論は受け付けます。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-031",
+  "type": "soon",
+  "headline": "クラブを率いて、|王者へ",
+  "caption": "編成、移籍、契約、経営、プレーオフ。すべてスマホで。Google Playにて近日配信。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#バレーボール"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-032",
+  "type": "feature",
+  "headline": "選手の|キャリア記録",
+  "caption": "シーズン、所属、試合数、得点、平均評価点、受賞歴。選手ひとりひとりに物語がある。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "jp-033",
+  "type": "question",
+  "headline": "一番厳しい|リーグは？",
+  "caption": "SVリーグ、スーペルレーガ、プルスリーガ。優勝が一番難しいのはどこ？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVリーグ",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-034",
+  "type": "feature",
+  "headline": "シーズン|アワード",
+  "caption": "MVP、新人賞、ポジション別、シーズンベスト6。自軍の選手を表彰台へ。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#SVリーグ"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "jp-035",
+  "type": "question",
+  "headline": "最初に補強する|ポジションは？",
+  "caption": "新しいクラブ、限られた予算。まずどのポジションを強化する？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-036",
+  "type": "feature",
+  "headline": "モチベーションも|大事",
+  "caption": "スター選手をベンチに置きすぎると移籍を志願することも。チームの空気を読もう。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "jp-037",
+  "type": "tip",
+  "headline": "ヒント：|セッターは|司令塔",
+  "caption": "良いセッターはすべてのアタッカーを輝かせる。決して軽視しないこと。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレーボール戦術"
+  ]
+ },
+ {
+  "id": "jp-038",
+  "type": "feature",
+  "headline": "ケガで|流れが変わる",
+  "caption": "オポジットが7週間離脱。選手層の厚さが優勝を左右する。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "jp-039",
+  "type": "fan",
+  "headline": "スパイクを|一言で",
+  "caption": "最高のスパイクを一言で表すと？こちらから：「雷鳴」。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-040",
+  "type": "soon",
+  "headline": "まずは|Androidから",
+  "caption": "Google Playで先行配信予定。iPhoneの皆さん、もう少しお待ちください。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#スマホゲーム"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-041",
+  "type": "feature",
+  "headline": "毎週届く|オファー",
+  "caption": "ライバルクラブから選手へのオファーが届く。売るか、守り抜くか。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "jp-042",
+  "type": "question",
+  "headline": "監督してみたい|クラブは？",
+  "caption": "世界中どの男子クラブでも指揮できるなら、どこを選ぶ？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-043",
+  "type": "feature",
+  "headline": "今週の|ベスト",
+  "caption": "毎週の好プレーヤーをピックアップ。あなたのセッターは選ばれた？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "jp-044",
+  "type": "question",
+  "headline": "ストレート勝ちか|フルセットか",
+  "caption": "毎回3-0で勝つのと、フルセットの激闘を制するの、どっちが好き？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-045",
+  "type": "feature",
+  "headline": "若手は|出場して伸びる",
+  "caption": "若くて出場時間が多い選手ほど早く成長。ベテランはいつか引退する。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "jp-046",
+  "type": "tip",
+  "headline": "ヒント：|年俸総額に注意",
+  "caption": "大型補強もシーズン途中で予算が尽きては意味がない。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-047",
+  "type": "feature",
+  "headline": "日本語で|遊べる",
+  "caption": "Volleyball Managerは日本語に完全対応。英語・トルコ語にも切り替え可能。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-048",
+  "type": "fan",
+  "headline": "遊びたい人は|RT",
+  "caption": "スマホで本格的な男子バレー監督ゲームを遊びたい人はRT🔁 Google Playにて近日配信。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#バレーボール"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-049",
+  "type": "soon",
+  "headline": "フォローして|最新情報を",
+  "caption": "配信開始のお知らせを見逃さないよう、ぜひフォローを。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#バレーボール"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-050",
+  "type": "feature",
+  "headline": "架空でも|実名でも",
+  "caption": "架空の世界で始めるも、名前パックを読み込むも自由。あなたのキャリア、あなたのルール。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "game"
+ },
+ {
+  "id": "jp-051",
+  "type": "question",
+  "headline": "欲しい|機能は？",
+  "caption": "配信後に追加してほしい機能は？皆さんの声がゲームを作ります。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#スマホゲーム",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-052",
+  "type": "feature",
+  "headline": "ベルリンへの|道",
+  "caption": "グループ1位は準々決勝へ直行、2位と3位の一部はプレーオフへ。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "jp-053",
+  "type": "question",
+  "headline": "何シーズン|遊ぶ派？",
+  "caption": "監督ゲームは1シーズンで満足？それとも20シーズン？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#スマホゲーム",
+   "#バレーボール"
+  ]
+ },
+ {
+  "id": "jp-054",
+  "type": "feature",
+  "headline": "リーグ|ランキング",
+  "caption": "得点、評価点、ポジション別ベスト。リーグの主役は誰だ？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#SVリーグ"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "jp-055",
+  "type": "tip",
+  "headline": "ヒント：|フリー選手を|狙え",
+  "caption": "移籍期間外でもフリーの選手はいつでも獲得可能。掘り出し物がいるかも。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "jp-056",
+  "type": "feature",
+  "headline": "デイリー|ボーナス",
+  "caption": "毎日もらえる予算ボーナス。移籍市場では1ユーロも無駄にできない。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#GooglePlay"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "jp-057",
+  "type": "fan",
+  "headline": "経験|ポジションは？",
+  "caption": "アウトサイド、オポジット、ミドル、セッター、リベロ。あなたはどこでプレーしてた？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-058",
+  "type": "question",
+  "headline": "弱小からの昇格か|名門で優勝か",
+  "caption": "トルコ1部の小クラブで昇格するのと、名門で優勝するの、どっちが燃える？",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-059",
+  "type": "tip",
+  "headline": "ヒント：|契約は早めに",
+  "caption": "主力は契約が切れる前に延長を。ライバルが狙っている。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ },
+ {
+  "id": "jp-060",
+  "type": "fan",
+  "headline": "忘れられない|ラリー",
+  "caption": "今まで観た中で最高のラリーは？ぜひ教えてください🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレー好きと繋がりたい"
+  ]
+ },
+ {
+  "id": "jp-061",
+  "type": "tip",
+  "headline": "ヒント：|まずは|レセプション",
+  "caption": "レセプションなくして攻撃なし。ラリーは最初の一本で決まる。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#バレーボール戦術"
+  ]
+ },
+ {
+  "id": "jp-062",
+  "type": "fan",
+  "headline": "いつも|応援ありがとう",
+  "caption": "フォローの一つひとつが、より良いゲーム作りの力になっています💛",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "jp-063",
+  "type": "tip",
+  "headline": "ヒント：|若手に|出場機会を",
+  "caption": "若手は試合に出るほど成長する。有望株にチャンスを。",
+  "hashtags": [
+   "#VolleyballManager",
+   "#バレーボール",
+   "#スマホゲーム"
+  ]
+ }
+]

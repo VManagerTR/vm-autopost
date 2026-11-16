@@ -1,0 +1,795 @@
+[
+ {
+  "file": "001.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_ball",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "home"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/fixture-home-w7-ja-new.png"
+  ]
+ },
+ {
+  "file": "002.jpg",
+  "zone": [
+   70,
+   90,
+   760,
+   740
+  ],
+  "align": "left",
+  "layout": "S_three_fan",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "home",
+   "table"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/fixture-home-w13-ja.png",
+   "new-leagues/japan-standings-mobile-ja.png",
+   "cl-fixture/shots/fixture-home-ja.png"
+  ]
+ },
+ {
+  "file": "003.jpg",
+  "zone": [
+   760,
+   130,
+   1520,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_left",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "004.jpg",
+  "zone": [
+   720,
+   90,
+   1520,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_left",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "fixtures"
+  ],
+  "screenshots": [
+   "cl-standings/shots/ja_fix_scroll.png"
+  ]
+ },
+ {
+  "file": "005.jpg",
+  "zone": [
+   720,
+   90,
+   1520,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_left",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "squad"
+  ],
+  "screenshots": [
+   "leagues-all/shots/japan-roster-ja.png"
+  ]
+ },
+ {
+  "file": "006.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_right",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "table"
+  ],
+  "screenshots": [
+   "cl-standings/shots/ja_table_top.png"
+  ]
+ },
+ {
+  "file": "007.jpg",
+  "zone": [
+   760,
+   130,
+   1520,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_left",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "008.jpg",
+  "zone": [
+   90,
+   190,
+   860,
+   830
+  ],
+  "align": "left",
+  "layout": "L_ball_trail",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "009.jpg",
+  "zone": [
+   70,
+   90,
+   760,
+   740
+  ],
+  "align": "left",
+  "layout": "S_three_fan",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "cl",
+   "match",
+   "table"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/fixture-detail-ja.png",
+   "cl-fixture/shots/league-table-ja.png",
+   "cl-fixture/shots/cl-fix-ja.png"
+  ]
+ },
+ {
+  "file": "010.jpg",
+  "zone": [
+   140,
+   200,
+   1460,
+   820
+  ],
+  "align": "center",
+  "layout": "L_court",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "011.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_ball",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "stats"
+  ],
+  "screenshots": [
+   "italy-top-players/v2/shots/ja_lib.png"
+  ]
+ },
+ {
+  "file": "012.jpg",
+  "zone": [
+   80,
+   90,
+   830,
+   730
+  ],
+  "align": "left",
+  "layout": "S_two_right",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "squad",
+   "table"
+  ],
+  "screenshots": [
+   "leagues-all/shots/italy-roster-ja.png",
+   "cl-standings/shots/ja_table_mid.png"
+  ]
+ },
+ {
+  "file": "013.jpg",
+  "zone": [
+   80,
+   90,
+   830,
+   730
+  ],
+  "align": "left",
+  "layout": "S_two_right",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "stats",
+   "table"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/cl-table-ja.png",
+   "italy-top-players/v2/shots/ja_pts.png"
+  ]
+ },
+ {
+  "file": "014.jpg",
+  "zone": [
+   90,
+   130,
+   860,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_right",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "015.jpg",
+  "zone": [
+   80,
+   90,
+   830,
+   730
+  ],
+  "align": "left",
+  "layout": "S_two_right",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "squad",
+   "stats"
+  ],
+  "screenshots": [
+   "italy-top-players/v2/shots/ja_set.png",
+   "leagues-all/shots/poland-roster-ja.png"
+  ]
+ },
+ {
+  "file": "016.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_right",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "table"
+  ],
+  "screenshots": [
+   "leagues-all/shots/turkey-1-standings-ja.png"
+  ]
+ },
+ {
+  "file": "017.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_right",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "squad"
+  ],
+  "screenshots": [
+   "leagues-all/shots/efeler-roster-ja.png"
+  ]
+ },
+ {
+  "file": "018.jpg",
+  "zone": [
+   140,
+   429,
+   1460,
+   850
+  ],
+  "align": "center",
+  "layout": "L_logo_top",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "019.jpg",
+  "zone": [
+   720,
+   90,
+   1520,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_left",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "table"
+  ],
+  "screenshots": [
+   "cl-standings/shots/ja_table_bot.png"
+  ]
+ },
+ {
+  "file": "020.jpg",
+  "zone": [
+   90,
+   190,
+   900,
+   830
+  ],
+  "align": "left",
+  "layout": "L_big_ball_corner",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "021.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_right",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "fixtures"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/league-fix-ja.png"
+  ]
+ },
+ {
+  "file": "022.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_ball",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "home"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/fixture-home-w7-ja.png"
+  ]
+ },
+ {
+  "file": "023.jpg",
+  "zone": [
+   90,
+   130,
+   860,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_right",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "024.jpg",
+  "zone": [
+   140,
+   400,
+   1460,
+   770
+  ],
+  "align": "center",
+  "layout": "L_net",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "025.jpg",
+  "zone": [
+   70,
+   90,
+   760,
+   740
+  ],
+  "align": "left",
+  "layout": "S_three_fan",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "fixtures",
+   "table"
+  ],
+  "screenshots": [
+   "cl-standings/shots/ja_fix.png",
+   "cl-standings/shots/ja_table_low.png",
+   "leagues-all/shots/japan-standings-ja.png"
+  ]
+ },
+ {
+  "file": "026.jpg",
+  "zone": [
+   90,
+   190,
+   860,
+   830
+  ],
+  "align": "left",
+  "layout": "L_ball_trail",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "027.jpg",
+  "zone": [
+   720,
+   90,
+   1520,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_left",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "squad"
+  ],
+  "screenshots": [
+   "leagues-all/shots/turkey-1-roster-ja.png"
+  ]
+ },
+ {
+  "file": "028.jpg",
+  "zone": [
+   80,
+   90,
+   830,
+   730
+  ],
+  "align": "left",
+  "layout": "S_two_right",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "playoffs"
+  ],
+  "screenshots": [
+   "cl-standings/shots/ja_ko_scroll.png",
+   "cl-standings/shots/ja_ko.png"
+  ]
+ },
+ {
+  "file": "029.jpg",
+  "zone": [
+   140,
+   200,
+   1460,
+   820
+  ],
+  "align": "center",
+  "layout": "L_court",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "030.jpg",
+  "zone": [
+   90,
+   130,
+   860,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_right",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "031.jpg",
+  "zone": [
+   760,
+   130,
+   1520,
+   780
+  ],
+  "align": "left",
+  "layout": "L_logo_left",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "032.jpg",
+  "zone": [
+   70,
+   90,
+   760,
+   740
+  ],
+  "align": "left",
+  "layout": "S_three_fan",
+  "palette": "navy",
+  "pool": "general",
+  "tags": [
+   "playoffs",
+   "squad",
+   "stats"
+  ],
+  "screenshots": [
+   "cl-fixture/shots/cl-ko-ja.png",
+   "leagues-all/shots/russia-roster-ja.png",
+   "italy-top-players/v2/shots/ja_rey.png"
+  ]
+ },
+ {
+  "file": "033.jpg",
+  "zone": [
+   90,
+   90,
+   900,
+   730
+  ],
+  "align": "left",
+  "layout": "S_one_ball",
+  "palette": "olive",
+  "pool": "general",
+  "tags": [
+   "table"
+  ],
+  "screenshots": [
+   "leagues-all/shots/russia-standings-ja.png"
+  ]
+ },
+ {
+  "file": "034.jpg",
+  "zone": [
+   90,
+   190,
+   900,
+   830
+  ],
+  "align": "left",
+  "layout": "L_big_ball_corner",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "035.jpg",
+  "zone": [
+   140,
+   400,
+   1460,
+   770
+  ],
+  "align": "center",
+  "layout": "L_net",
+  "palette": "ink",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "036.jpg",
+  "zone": [
+   140,
+   430,
+   1460,
+   850
+  ],
+  "align": "center",
+  "layout": "L_logo_top",
+  "palette": "warm",
+  "pool": "general",
+  "tags": [
+   "logo"
+  ],
+  "screenshots": []
+ },
+ {
+  "file": "league_italy.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "warm",
+  "tags": [
+   "league_italy"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/italy-standings-ja.png",
+   "leagues-all/shots/italy-roster-ja.png"
+  ]
+ },
+ {
+  "file": "league_poland.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "navy",
+  "tags": [
+   "league_poland"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/poland-standings-ja.png",
+   "leagues-all/shots/poland-roster-ja.png"
+  ]
+ },
+ {
+  "file": "league_russia.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "olive",
+  "tags": [
+   "league_russia"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/russia-standings-ja.png",
+   "leagues-all/shots/russia-roster-ja.png"
+  ]
+ },
+ {
+  "file": "league_efeler.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "warm",
+  "tags": [
+   "league_efeler"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/efeler-standings-ja.png",
+   "leagues-all/shots/efeler-roster-ja.png"
+  ]
+ },
+ {
+  "file": "league_japan.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "ink",
+  "tags": [
+   "league_japan"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/japan-standings-ja.png",
+   "leagues-all/shots/japan-roster-ja.png"
+  ]
+ },
+ {
+  "file": "league_turkey-1.jpg",
+  "zone": [
+   80,
+   90,
+   840,
+   730
+  ],
+  "align": "left",
+  "layout": "S_league",
+  "palette": "warm",
+  "tags": [
+   "league_turkey-1"
+  ],
+  "pool": "league",
+  "screenshots": [
+   "leagues-all/shots/turkey-1-standings-ja.png",
+   "leagues-all/shots/turkey-1-roster-ja.png"
+  ]
+ }
+]

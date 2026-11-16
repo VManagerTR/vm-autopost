@@ -1,0 +1,744 @@
+[
+ {
+  "id": "en-001",
+  "type": "league",
+  "headline": "SUPERLEGA IS IN THE GAME",
+  "caption": "Italy's SuperLega is in Volleyball Manager. Twelve clubs, one Scudetto — where do you start?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SuperLega",
+   "#Volleyball"
+  ],
+  "image_tag": "league_italy"
+ },
+ {
+  "id": "en-002",
+  "type": "feature",
+  "headline": "SIX LEAGUES. ONE CAREER",
+  "caption": "SuperLega, PlusLiga, Russian Super League, Efeler Ligi, SV.League and Turkish 1. Lig. Pick your club and build a dynasty.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "table"
+ },
+ {
+  "id": "en-003",
+  "type": "question",
+  "headline": "WHICH LEAGUE FIRST?",
+  "caption": "SuperLega, PlusLiga or SV.League — where would you start your career? Reply below 👇",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-004",
+  "type": "feature",
+  "headline": "CHAMPIONS LEAGUE NIGHTS",
+  "caption": "Win your league and Europe is calling: five pools, a playoff round and a Final Four in Berlin.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#ChampionsLeague",
+   "#Volleyball"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "en-005",
+  "type": "league",
+  "headline": "PLUSLIGA IS IN THE GAME",
+  "caption": "Poland's PlusLiga is in. Packed arenas, deep squads, zero easy weeks.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#PlusLiga",
+   "#Volleyball"
+  ],
+  "image_tag": "league_poland"
+ },
+ {
+  "id": "en-006",
+  "type": "tip",
+  "headline": "TIP: DEPTH WINS SEASONS",
+  "caption": "Keep a reliable backup at every position. One injury shouldn't end your season.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-007",
+  "type": "feature",
+  "headline": "THE TRANSFER WINDOW IS OPEN",
+  "caption": "Eight weeks in summer, a short mid-season window, and free agents any time. Every week rival clubs move too.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Transfers",
+   "#Volleyball"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "en-008",
+  "type": "fan",
+  "headline": "TAG A SETTER",
+  "caption": "Tag the friend who thinks he's the best setter in your rec league 😄",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-009",
+  "type": "league",
+  "headline": "RUSSIAN SUPER LEAGUE",
+  "caption": "The Russian Super League is in Volleyball Manager. Big budgets, bigger blocks.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Superliga",
+   "#Volleyball"
+  ],
+  "image_tag": "league_russia"
+ },
+ {
+  "id": "en-010",
+  "type": "soon",
+  "headline": "COMING SOON TO GOOGLE PLAY",
+  "caption": "Volleyball Manager is coming soon to Google Play. Android first, iOS later.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#MobileGames"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-011",
+  "type": "feature",
+  "headline": "RENEW OR LET HIM GO?",
+  "caption": "Expiring contracts are flagged in your squad. Renew your star now, or risk losing him for nothing.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "en-012",
+  "type": "question",
+  "headline": "SETTER OR OPPOSITE?",
+  "caption": "You have budget for one superstar. Elite setter or elite opposite? Tell us why.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-013",
+  "type": "league",
+  "headline": "EFELER LIGI IS IN THE GAME",
+  "caption": "Turkey's Efeler Ligi is in the game — and two clubs go down every season. Survive or contend?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Volleyball"
+  ],
+  "image_tag": "league_efeler"
+ },
+ {
+  "id": "en-014",
+  "type": "feature",
+  "headline": "BALANCE THE BOOKS",
+  "caption": "Shirt sales, tickets, sponsors, TV money and win bonuses in. Wages and running costs out. Can your budget take it?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Finance",
+   "#Volleyball"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "en-015",
+  "type": "question",
+  "headline": "BUY STARS OR BUILD YOUTH?",
+  "caption": "Spend it all on proven stars, or trust your academy? What's your style, coach?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ]
+ },
+ {
+  "id": "en-016",
+  "type": "feature",
+  "headline": "YOUR ACADEMY DELIVERS",
+  "caption": "Every season new 17–19-year-olds come through your academy. One of them could be your next captain.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Youth",
+   "#Volleyball"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "en-017",
+  "type": "league",
+  "headline": "SV.LEAGUE IS IN THE GAME",
+  "caption": "Japan's SV.League is in. Fast offence, elite defence. Can you build a winner there?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#SVLeague",
+   "#Volleyball"
+  ],
+  "image_tag": "league_japan"
+ },
+ {
+  "id": "en-018",
+  "type": "tip",
+  "headline": "TIP: MIDDLES CONTROL THE NET",
+  "caption": "Strong middle blockers shut down quick attacks and free your outside hitters.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-019",
+  "type": "feature",
+  "headline": "WATCH EVERY POINT",
+  "caption": "Follow matches through a live point-by-point feed and set the pace with speed controls. Or hit quick result.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "match"
+ },
+ {
+  "id": "en-020",
+  "type": "fan",
+  "headline": "MATCH DAY ENERGY",
+  "caption": "Who are you watching this weekend? Drop your team below 🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-021",
+  "type": "league",
+  "headline": "TURKISH 1. LIG: START FROM THE BOTTOM",
+  "caption": "Want a real challenge? Start in the Turkish 1. Lig, win promotion and climb to the Efeler Ligi.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "league_turkey-1"
+ },
+ {
+  "id": "en-022",
+  "type": "soon",
+  "headline": "BUILT FOR VOLLEYBALL FANS",
+  "caption": "A men's volleyball manager made for people who actually watch volleyball. Coming soon to Google Play.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#GooglePlay"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-023",
+  "type": "feature",
+  "headline": "PLAYER RATINGS. MATCH MVP",
+  "caption": "Every player gets a match rating and every game crowns an MVP. Who is carrying your team?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MVP",
+   "#Volleyball"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "en-024",
+  "type": "question",
+  "headline": "BEST SERVER YOU'VE SEEN?",
+  "caption": "Who has the scariest serve in men's volleyball right now? Go.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-025",
+  "type": "feature",
+  "headline": "BUILD THE PERFECT 14",
+  "caption": "Starting six, libero, bench and reserves. Your match-day squad of 14 decides everything.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "en-026",
+  "type": "question",
+  "headline": "LIBERO: OVERRATED?",
+  "caption": "How much does a world-class libero really change a team? Hot takes welcome.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-027",
+  "type": "feature",
+  "headline": "PLAYOFFS DECIDE IT ALL",
+  "caption": "The top eight go to the playoffs. A great regular season means nothing if you fold in May.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Playoffs",
+   "#Volleyball"
+  ],
+  "image_tag": "playoffs"
+ },
+ {
+  "id": "en-028",
+  "type": "tip",
+  "headline": "TIP: SERVE TO PRESSURE",
+  "caption": "A tough serve breaks the opponent's first pass — and their whole offence with it.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-029",
+  "type": "feature",
+  "headline": "EARN YOUR SILVERWARE",
+  "caption": "Every title you win goes into your Trophy Museum. How full can you make it?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "museum"
+ },
+ {
+  "id": "en-030",
+  "type": "fan",
+  "headline": "VOLLEYBALL IS THE BEST SPORT",
+  "caption": "Fast, loud, tactical, beautiful. Change our mind.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-031",
+  "type": "soon",
+  "headline": "YOUR CLUB. YOUR CALL.",
+  "caption": "Squad, transfers, contracts, finances, playoffs. Coming soon to Google Play.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Volleyball"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-032",
+  "type": "feature",
+  "headline": "EVERY CAREER TELLS A STORY",
+  "caption": "Player pages track seasons, clubs, matches, points, average ratings and awards.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "en-033",
+  "type": "question",
+  "headline": "HARDEST LEAGUE TO WIN?",
+  "caption": "SuperLega, PlusLiga or the Russian Super League — which title is the toughest?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-034",
+  "type": "feature",
+  "headline": "SEASON AWARDS",
+  "caption": "MVP, best young player, best by position and the Team of the Season. Get your players on the list.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MVP",
+   "#Volleyball"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "en-035",
+  "type": "question",
+  "headline": "FIRST SIGNING?",
+  "caption": "New club, empty budget sheet. Which position do you fix first?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ]
+ },
+ {
+  "id": "en-036",
+  "type": "feature",
+  "headline": "KEEP THE DRESSING ROOM HAPPY",
+  "caption": "Bench a star too long and he'll ask for a move. Morale matters.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "en-037",
+  "type": "tip",
+  "headline": "TIP: THE SETTER IS THE BRAIN",
+  "caption": "A great setter makes every hitter better. Never underrate him.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-038",
+  "type": "feature",
+  "headline": "INJURIES CHANGE SEASONS",
+  "caption": "Lose your opposite for seven weeks and the plan changes fast. Depth wins titles.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "squad"
+ },
+ {
+  "id": "en-039",
+  "type": "fan",
+  "headline": "ONE WORD: SPIKE",
+  "caption": "Describe the perfect spike in one word. We'll start: \"Thunder.\"",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ]
+ },
+ {
+  "id": "en-040",
+  "type": "soon",
+  "headline": "ANDROID FIRST",
+  "caption": "Volleyball Manager lands on Google Play first. iOS players: you're next.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#MobileGames"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-041",
+  "type": "feature",
+  "headline": "PROMOTION & RELEGATION",
+  "caption": "In Turkey, two clubs drop from the Efeler Ligi and two rise from the 1. Lig. Every point counts.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Volleyball"
+  ],
+  "image_tag": "table"
+ },
+ {
+  "id": "en-042",
+  "type": "question",
+  "headline": "DREAM CLUB TO MANAGE?",
+  "caption": "If you could manage any men's club in the world, which one would it be?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-043",
+  "type": "feature",
+  "headline": "REAL ROSTERS OR FICTIONAL",
+  "caption": "Start with a fictional world or import a name pack. It's your career, your rules.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "game"
+ },
+ {
+  "id": "en-044",
+  "type": "question",
+  "headline": "5-SET THRILLER OR 3-0?",
+  "caption": "Would you rather win 3-0 every time or watch your team survive a 5-set classic?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ]
+ },
+ {
+  "id": "en-045",
+  "type": "feature",
+  "headline": "TEAM OF THE WEEK",
+  "caption": "Every week the best performers are highlighted. Did your setter make the cut?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "en-046",
+  "type": "tip",
+  "headline": "TIP: WATCH THE WAGE BILL",
+  "caption": "A big signing is useless if wages sink your budget by mid-season.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-047",
+  "type": "feature",
+  "headline": "YOUNG TALENT GROWS",
+  "caption": "Players develop with age and minutes — and veterans eventually retire. Plan two seasons ahead.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "career"
+ },
+ {
+  "id": "en-048",
+  "type": "fan",
+  "headline": "RT IF YOU'D PLAY",
+  "caption": "RT if you'd play a proper men's volleyball manager on your phone. Coming soon to Google Play.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Volleyball"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-049",
+  "type": "soon",
+  "headline": "FOLLOW FOR LAUNCH NEWS",
+  "caption": "Follow us so you don't miss the Google Play launch of Volleyball Manager.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#GooglePlay",
+   "#Volleyball"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-050",
+  "type": "feature",
+  "headline": "DAILY BONUS",
+  "caption": "Log in for a daily budget boost. Every euro helps in the transfer market.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#GooglePlay"
+  ],
+  "image_tag": "home"
+ },
+ {
+  "id": "en-051",
+  "type": "question",
+  "headline": "WHAT FEATURE NEXT?",
+  "caption": "What should we add to Volleyball Manager after launch? Your ideas shape the game.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MobileGames",
+   "#Volleyball"
+  ]
+ },
+ {
+  "id": "en-052",
+  "type": "feature",
+  "headline": "ENGLISH · TÜRKÇE · 日本語",
+  "caption": "Volleyball Manager speaks English, Turkish and Japanese. Same game, your language.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-053",
+  "type": "question",
+  "headline": "HOW LONG IS YOUR CAREER?",
+  "caption": "One season or twenty? How deep do you go in a manager game?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#MobileGames",
+   "#Volleyball"
+  ]
+ },
+ {
+  "id": "en-054",
+  "type": "feature",
+  "headline": "GROUP STAGE TO BERLIN",
+  "caption": "Top pool finishes go straight to the quarterfinals. Runners-up fight through the playoff.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#ChampionsLeague",
+   "#Volleyball"
+  ],
+  "image_tag": "cl"
+ },
+ {
+  "id": "en-055",
+  "type": "tip",
+  "headline": "TIP: SIGN FREE AGENTS",
+  "caption": "The window's shut? Free agents can be signed any time. Bargains are out there.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "en-056",
+  "type": "feature",
+  "headline": "BIDS ARRIVE EVERY WEEK",
+  "caption": "Rival clubs make offers for your players. Cash in or hold firm?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Transfers",
+   "#Volleyball"
+  ],
+  "image_tag": "transfers"
+ },
+ {
+  "id": "en-057",
+  "type": "fan",
+  "headline": "FAVOURITE POSITION?",
+  "caption": "Outside, opposite, middle, setter or libero — which position did you play?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-058",
+  "type": "feature",
+  "headline": "KNOW YOUR LEADERS",
+  "caption": "Points, ratings and best by position: league leaderboards show who's really performing.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "stats"
+ },
+ {
+  "id": "en-059",
+  "type": "question",
+  "headline": "PROMOTION OR TITLE?",
+  "caption": "Win the 1. Lig with a small club, or win the Efeler Ligi with a giant. Which feels better?",
+  "hashtags": [
+   "#VolleyballManager",
+   "#EfelerLigi",
+   "#Volleyball"
+  ]
+ },
+ {
+  "id": "en-060",
+  "type": "tip",
+  "headline": "TIP: RENEW EARLY",
+  "caption": "Lock in key players before their contracts run out — rivals are watching.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-061",
+  "type": "fan",
+  "headline": "GREATEST RALLY EVER",
+  "caption": "What's the best rally you've ever watched? Link it below 🏐",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTwitter"
+  ]
+ },
+ {
+  "id": "en-062",
+  "type": "tip",
+  "headline": "TIP: PASSING FIRST",
+  "caption": "No pass, no attack. Serve receive is where rallies are won.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ },
+ {
+  "id": "en-063",
+  "type": "fan",
+  "headline": "THANK YOU, EARLY FANS",
+  "caption": "Every follow helps us build a better volleyball game. Thanks for being here early 💛",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#MobileGames"
+  ],
+  "image_tag": "logo"
+ },
+ {
+  "id": "en-064",
+  "type": "tip",
+  "headline": "TIP: MINUTES DEVELOP PLAYERS",
+  "caption": "Young players need court time to grow. Give your prospects a chance.",
+  "hashtags": [
+   "#VolleyballManager",
+   "#Volleyball",
+   "#VolleyballTips"
+  ]
+ }
+]
