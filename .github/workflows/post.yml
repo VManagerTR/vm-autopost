@@ -3,9 +3,14 @@ name: Daily X post
 on:
   schedule:
     # Times are UTC. GitHub may start scheduled runs a few minutes late.
-    - cron: "0 12 * * *"   # JP  @VManagerJP  -> 21:00 JST
-    - cron: "0 14 * * *"   # EN  @VManagerEN  -> 09:00 US Eastern / 15:00 CET
-    - cron: "0 18 * * *"   # TR  @VManagerTR  -> 21:00 Türkiye
+    # Off the top of the hour (GitHub often delays :00 runs); 2nd line per account is a backup,
+    # post.py skips if that account already posted today (UTC).
+    - cron: "7 12 * * *"   # JP  -> 21:07 JST
+    - cron: "41 13 * * *"  # JP backup
+    - cron: "7 14 * * *"   # EN  -> 09:07 US Eastern
+    - cron: "41 15 * * *"  # EN backup
+    - cron: "7 18 * * *"   # TR  -> 21:07 Turkiye
+    - cron: "41 19 * * *"  # TR backup
   workflow_dispatch:
     inputs:
       account:
@@ -35,9 +40,9 @@ jobs:
         id: acc
         run: |
           case "${{ github.event.schedule }}" in
-            "0 12 * * *") ACC=jp ;;
-            "0 14 * * *") ACC=en ;;
-            "0 18 * * *") ACC=tr ;;
+            "7 12 * * *"|"41 13 * * *") ACC=jp ;;
+            "7 14 * * *"|"41 15 * * *") ACC=en ;;
+            "7 18 * * *"|"41 19 * * *") ACC=tr ;;
             *) ACC="${{ inputs.account }}" ;;
           esac
           if [ -z "$ACC" ]; then echo "no account resolved"; exit 1; fi
