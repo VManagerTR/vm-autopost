@@ -1,11 +1,12 @@
 {
- "next_text": 4,
+ "next_text": 5,
  "next_general": 1,
  "image_uses": {
   "league_japan.jpg": 1,
   "002.jpg": 1,
   "001.jpg": 1,
-  "009.jpg": 1
+  "009.jpg": 1,
+  "league_italy.jpg": 1
  },
  "cycle": 0,
  "history": [
@@ -32,6 +33,12 @@
    "text_id": "jp-004",
    "image": "009.jpg",
    "tweet_id": "2123403774945264108"
+  },
+  {
+   "time": "2026-11-20T13:06:15+00:00",
+   "text_id": "jp-005",
+   "image": "league_italy.jpg",
+   "tweet_id": "2123764860156530999"
   }
  ]
 }
