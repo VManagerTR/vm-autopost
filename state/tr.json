@@ -1,11 +1,12 @@
 {
- "next_text": 4,
+ "next_text": 5,
  "next_general": 1,
  "image_uses": {
   "league_efeler.jpg": 1,
   "002.jpg": 1,
   "001.jpg": 1,
-  "017.jpg": 1
+  "017.jpg": 1,
+  "league_turkey-1.jpg": 1
  },
  "cycle": 0,
  "history": [
@@ -32,6 +33,12 @@
    "text_id": "tr-004",
    "image": "017.jpg",
    "tweet_id": "2123491038241447983"
+  },
+  {
+   "time": "2026-11-20T18:57:49+00:00",
+   "text_id": "tr-005",
+   "image": "league_turkey-1.jpg",
+   "tweet_id": "2123853337128796552"
   }
  ]
 }
