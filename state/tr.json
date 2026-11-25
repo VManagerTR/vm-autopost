@@ -1,5 +1,5 @@
 {
- "next_text": 9,
+ "next_text": 10,
  "next_general": 4,
  "image_uses": {
   "league_efeler.jpg": 1,
@@ -9,7 +9,8 @@
   "league_turkey-1.jpg": 1,
   "003.jpg": 1,
   "004.jpg": 1,
-  "league_italy.jpg": 1
+  "league_italy.jpg": 1,
+  "006.jpg": 1
  },
  "cycle": 0,
  "history": [
@@ -66,6 +67,12 @@
    "text_id": "tr-009",
    "image": "league_italy.jpg",
    "tweet_id": "2125302989736874303"
+  },
+  {
+   "time": "2026-11-25T18:52:26+00:00",
+   "text_id": "tr-010",
+   "image": "006.jpg",
+   "tweet_id": "2125663920438304769"
   }
  ]
 }
