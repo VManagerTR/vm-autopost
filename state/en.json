@@ -1,5 +1,5 @@
 {
- "next_text": 10,
+ "next_text": 11,
  "next_general": 3,
  "image_uses": {
   "league_italy.jpg": 1,
@@ -11,7 +11,8 @@
   "033.jpg": 1,
   "003.jpg": 1,
   "league_russia.jpg": 1,
-  "006.jpg": 1
+  "006.jpg": 1,
+  "009.jpg": 1
  },
  "cycle": 0,
  "history": [
@@ -74,6 +75,12 @@
    "text_id": "en-010",
    "image": "006.jpg",
    "tweet_id": "2125607781030035764"
+  },
+  {
+   "time": "2026-11-26T15:04:36+00:00",
+   "text_id": "en-011",
+   "image": "009.jpg",
+   "tweet_id": "2125968971367076268"
   }
  ]
 }
