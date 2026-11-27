@@ -1,6 +1,6 @@
 {
- "next_text": 11,
- "next_general": 4,
+ "next_text": 12,
+ "next_general": 5,
  "image_uses": {
   "league_efeler.jpg": 1,
   "002.jpg": 2,
@@ -11,7 +11,8 @@
   "004.jpg": 1,
   "league_italy.jpg": 1,
   "006.jpg": 1,
-  "010.jpg": 1
+  "010.jpg": 1,
+  "005.jpg": 1
  },
  "cycle": 0,
  "history": [
@@ -80,6 +81,12 @@
    "text_id": "tr-011",
    "image": "010.jpg",
    "tweet_id": "2126027672249651617"
+  },
+  {
+   "time": "2026-11-27T18:57:17+00:00",
+   "text_id": "tr-012",
+   "image": "005.jpg",
+   "tweet_id": "2126389915256807782"
   }
  ]
 }
