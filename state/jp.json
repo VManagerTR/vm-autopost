@@ -1,6 +1,6 @@
 {
- "next_text": 11,
- "next_general": 4,
+ "next_text": 12,
+ "next_general": 5,
  "image_uses": {
   "league_japan.jpg": 1,
   "002.jpg": 2,
@@ -11,7 +11,7 @@
   "004.jpg": 1,
   "league_poland.jpg": 1,
   "007.jpg": 1,
-  "005.jpg": 1
+  "005.jpg": 2
  },
  "cycle": 0,
  "history": [
@@ -80,6 +80,12 @@
    "text_id": "jp-011",
    "image": "005.jpg",
    "tweet_id": "2125941776825418226"
+  },
+  {
+   "time": "2026-11-27T13:13:43+00:00",
+   "text_id": "jp-012",
+   "image": "005.jpg",
+   "tweet_id": "2126303457279967371"
   }
  ]
 }
